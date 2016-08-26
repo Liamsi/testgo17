@@ -1,6 +1,6 @@
 package subpackage
 
 type SimpleType2 struct {
-	A int
-	B int
+	A int32
+	B uint32
 }
