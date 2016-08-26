@@ -1,4 +1,4 @@
-package subpackage
+package subpackage_test
 
 import (
 	"github.com/liamsi/testgo17"
